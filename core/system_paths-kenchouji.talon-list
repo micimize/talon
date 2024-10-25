@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: kenchouji
+-
+user: /Users/mjr
+desktop: /Users/mjr/Desktop
+desk: /Users/mjr/Desktop
+documents: /Users/mjr/Documents
+docks: /Users/mjr/Documents
+downloads: /Users/mjr/Downloads
+music: /Users/mjr/Music
+pictures: /Users/mjr/Pictures
+videos: /Users/mjr/Videos
+talon home: /Users/mjr/.talon
+talon recordings: /Users/mjr/.talon/recordings
+talon user: /Users/mjr/.talon/user
+home: /Users/mjr
